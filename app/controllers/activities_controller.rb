@@ -1,6 +1,6 @@
 # The controller for actions related to the Activities model
 class ActivitiesController < ApplicationController
-
+#Added comment for 2nd commit in demo branch
   before_action :set_resource, only: [:index]
   before_action :set_breadcrumbs
 
